@@ -1,0 +1,27 @@
+{
+  "categories": [
+    {
+      "id": "4e88",
+      "category_name": "Giáo dục"
+    },
+    {
+      "id": "8ae3",
+      "category_name": "Văn hóa"
+    },
+    {
+      "id": "85cf",
+      "category_name": "Thể thao"
+    }
+  ],
+  "posts": [
+    {
+      "id": "4351",
+      "post_name": "",
+      "post_image": "",
+      "category": "85cf",
+      "content": "<ul>\n<li>Sau khi thông báo rời khỏi PSG, Mbappe đã quyết định gia nhập Real Madrid. Theo nguồn tin từ tờ Marca, cầu thủ này đồng ý ký vào bản hợp đồng có thời hạn tới năm 2029. Trong đó, mức lương của cầu thủ này nhận được ở Bernabeu khá thấp.\n<img src=\"https://cdnphoto.dantri.com.vn/Uoelk1tTIBE2erMzKOum6f6hIcs=/thumb_w/1020/2024/02/19/mbappe-tren-duong-den-madrid-1708346507888.jpg\" alt=\"Ảnh cầu thủ\"></li>\n</ul>\n<pre><code>Giấc mơ của Mbappe là khoác áo Real Madrid và chinh phục những danh hiệu cao quý.\n</code></pre>\n",
+      "created_at": "2024-02-19T14:31:15.152Z",
+      "update_at": "Ngọ Văn Quý"
+    }
+  ]
+}
